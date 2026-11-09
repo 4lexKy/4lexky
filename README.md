@@ -14,6 +14,8 @@
 
 >>[velcpu](https://github.com/4lexKy/velcpu) - Modifica la velocidad de la CPU para maximizar el rendimiento dentro de una temperatura límite
 
+>>[fire](https://github.com/4lexKy/fire) - Actualiza firefox-esr y lo ejecuta al mismo tiempo que sigue actualizando el resto del sistema.
+
 - Pequeños programas interessantes
 
 >>[modoEstudio](https://github.com/4lexKy/modoEstudio) - Te avisa cada 15 minutos para que mires lejos y cuidar tu vista

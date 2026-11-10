@@ -5,7 +5,7 @@
 ## Aquí encontrarás:
 
 - Proyectos personales
->>[discloud](https://github.com/4lexKy/discloud) - Nuve privada distribuida [en desarrollo]
+>>[discloud](https://github.com/4lexKy/discloud) - Nube privada distribuida [en desarrollo]
 
 >>[meritxell](https://github.com/4lexKy/meritxell) - Bot de telegram con utilidades (qr, descargas, pdfs, etc.) y chat con i.a. (conexion con Ollama).
 
@@ -16,7 +16,7 @@
 
 >>[fire](https://github.com/4lexKy/fire) - Actualiza firefox-esr y lo ejecuta al mismo tiempo que sigue actualizando el resto del sistema.
 
-- Pequeños programas interessantes
+- Pequeños programas interesantes
 
 >>[modoEstudio](https://github.com/4lexKy/modoEstudio) - Te avisa cada 15 minutos para que mires lejos y cuidar tu vista
 

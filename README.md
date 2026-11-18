@@ -39,7 +39,7 @@
 
 ## Lenguajes que vas a ver
 
-- Bash para scripting
-- C/C++ para el resto
+- `Bash` para scripting
+- `C/C++` para el resto
 
 ---

@@ -20,7 +20,7 @@
 
 - Pequeños programas interesantes
 
->>[downM4S](https://github.com/4lexKy/downM4S) - Descargador de vídeos m4s, requiere adaptar el script, pero gestiona automáticamente audio + vídeo y todos sus segmentos
+>>[downM4S](https://github.com/4lexKy/downM4S) - Descargador de vídeos m4s, gestiona automáticamente audio + vídeo y todos sus segmentos (requiere adaptar el script a cada web)
 
 >>[modoEstudio](https://github.com/4lexKy/modoEstudio) - Te avisa cada 15 minutos para que mires lejos y cuidar tu vista
 
